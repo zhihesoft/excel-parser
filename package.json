@@ -1,8 +1,8 @@
 {
   "name": "@leadinvr/excel-parser",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Parser for MS Excel",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
     "build": "tsc"
