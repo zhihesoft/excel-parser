@@ -1,0 +1,30 @@
+{
+  "name": "@leadinvr/excel-parser",
+  "version": "1.0.0",
+  "description": "Parser for MS Excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhihesoft/excel-parser.git"
+  },
+  "keywords": [
+    "excel",
+    "parser"
+  ],
+  "author": "Stanley",
+  "license": "MIT",
+  "files": [
+    "dist/**/*"
+  ],
+  "bugs": {
+    "url": "https://github.com/zhihesoft/excel-parser/issues"
+  },
+  "homepage": "https://github.com/zhihesoft/excel-parser#readme",
+  "dependencies": {
+    "node-xlsx": "^0.24.0",
+    "reflect-metadata": "^0.2.2"
+  }
+}
